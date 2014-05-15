@@ -1,0 +1,6 @@
+Google:
+  projectId: '############'
+  client:
+    secret:  'SuperSecret'
+StackOverflow:
+  apiKey:    'myAwesomeAPIKeyForUseWSE'
